@@ -1,0 +1,6 @@
+---
+published: true
+title: Init
+layout: post
+---
+Here is the first test post!
